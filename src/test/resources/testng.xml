@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object test example">
+<parameter name="BrowserName" value="FireFox"/>
+  <test name="sample test">
+    <classes>
+      <class name="com.my.facebook.tests.LandingPageTest"/>
+
+    </classes>
+  </test>
+</suite>
