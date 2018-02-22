@@ -1,5 +1,6 @@
 target/
 logs/
+log/
 test-output/
 pom.xml.tag
 pom.xml.releaseBackup
